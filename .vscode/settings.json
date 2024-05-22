@@ -13,5 +13,6 @@
         "target/esp32.cfg"
     ],
     "idf.pythonBinPathWin": "C:\\ESP32\\.espressif\\python_env\\idf5.2_py3.11_env\\Scripts\\python.exe",
-    "idf.toolsPathWin": "C:\\ESP32\\.espressif"
+    "idf.toolsPathWin": "C:\\ESP32\\.espressif",
+    "C_Cpp.errorSquiggles": "disabled"
 }
