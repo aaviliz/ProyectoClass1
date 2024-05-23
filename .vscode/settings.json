@@ -14,5 +14,10 @@
     ],
     "idf.pythonBinPathWin": "C:\\ESP32\\.espressif\\python_env\\idf5.2_py3.11_env\\Scripts\\python.exe",
     "idf.toolsPathWin": "C:\\ESP32\\.espressif",
-    "C_Cpp.errorSquiggles": "disabled"
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "task.h": "c"
+    },
+    "idf.portWin": "COM6",
+    "idf.flashType": "UART"
 }
